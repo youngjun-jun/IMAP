@@ -3,7 +3,7 @@
   <h3 align="center"><b>CVPR 2026</b></h3>
   <p align="center">
     <h3 align="center">
-      <a href="https://github.com/youngjun-jun"><strong>Youngjun Jun<sup>1</sup></strong></a> · 
+      <a href="https://youngjun-jun.github.io/"><strong>Youngjun Jun<sup>1</sup></strong></a> · 
       <a href="https://seilk.github.io/"><strong>Seil Kang<sup>2</sup></strong></a> · 
       <a href="https://dnwjddl.github.io/"><strong>Woojung Han<sup>2</sup></strong></a> · 
       <a href="https://micv.yonsei.ac.kr/seongjae"><strong>Seong Jae Hwang<sup>1</sup></strong></a>
