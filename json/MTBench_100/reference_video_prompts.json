@@ -1,0 +1,502 @@
+[
+  {
+    "caption": "An airplane is landing on the ground.",
+    "concepts": "airplane, runway, grass, sky, building",
+    "object": "landing, rolling, flying"
+  },
+  {
+    "caption": "A black car is driving in the snow.",
+    "concepts": "car, snow, road, landscape",
+    "object": "driving, rolling"
+  },
+  {
+    "caption": "A brown bear walking on a rocky path in a zoo enclosure.",
+    "concepts": "bear, rock, grass, fence, tree, background",
+    "object": "walking"
+  },
+  {
+    "caption": "The person is bending over to adjust or fix a bicycle wheel.",
+    "concepts": "bicycle, tire, wheel, handlebar, ground, hand, tool",
+    "object": "tightening, holding, adjusting"
+  },
+  {
+    "caption": "A black swan swimming in a pond.",
+    "concepts": "swan, water, grass",
+    "object": "swimming, turning"
+  },
+  {
+    "caption": "The person is riding a bicycle on a dirt track.",
+    "concepts": "cyclist, bicycle, dirtroad, trees, grass, sky",
+    "object": "cycling, riding, pedaling"
+  },
+  {
+    "caption": "The person is riding a bicycle on a path next to a colorful wall with graffiti.",
+    "concepts": "man, helmet, clothing, graffiti, wall, bicycle, road, trees, sky",
+    "object": "pointing, talking, riding"
+  },
+  {
+    "caption": "A small boat traveling on a body of water, possibly a lake or a calm sea, with a backdrop of a rocky shore and a few buildings.",
+    "concepts": "boat, water, sky, shore, buildings, trees",
+    "object": "sailing, moving"
+  },
+  {
+    "caption": "Two men are boxing in a ring, with a referee observing the match.",
+    "concepts": "boxer, referee, ring, audience, ropes, gloves, shorts",
+    "object": "punching, blocking, moving, fighting"
+  },
+  {
+    "caption": "The person is dancing hip-hop on the ground.",
+    "concepts": "person, wall, floor",
+    "object": "dancing, moving, turning, walking"
+  },
+  {
+    "caption": "The person is dancing hip-hop on the ground.",
+    "concepts": "person, wall, floor",
+    "object": "dancing, moving, turning, walking"
+  },
+  {
+    "caption": "The bus is driving down the street.",
+    "concepts": "bus, car, road, building, tree, sky",
+    "object": "driving"
+  },
+  {
+    "caption": "The camel is walking in a zoo enclosure, possibly towards a feeding area.",
+    "concepts": "camel, building, ground, fence, trees",
+    "object": "walking"
+  },
+  {
+    "caption": "A small car driving on a city street.",
+    "concepts": "car, building, tree, road, sky, trafficlight, bus, pedestrian",
+    "object": "driving, moving, crossing"
+  },
+  {
+    "caption": "A silver car driving on a city street.",
+    "concepts": "car, road, building, tree, sky, sidewalk",
+    "object": "driving"
+  },
+  {
+    "caption": "A car driving on a winding road through a scenic mountainous area.",
+    "concepts": "car, road, grass, mountain, sky",
+    "object": "driving"
+  },
+  {
+    "caption": "A young girl is holding a small kitten in her arms.",
+    "concepts": "child, kitten, shirt, background",
+    "object": "holding, looking, moving"
+  },
+  {
+    "caption": "An old-fashioned car driving through a parade or event, with spectators watching.",
+    "concepts": "car, people, crowd, building, road, trees",
+    "object": "driving, watching"
+  },
+  {
+    "caption": "A person is throwing a substance, possibly paint or powder, at another person who is standing in front of a sign.",
+    "concepts": "people, poster, smoke, background",
+    "object": "singing, gesturing, moving"
+  },
+  {
+    "caption": "The cow is walking on a dirt path.",
+    "concepts": "cow, road, grass, tree, sky, cloud",
+    "object": "walking, approaching"
+  },
+  {
+    "caption": "The person is walking across a crosswalk with a child.",
+    "concepts": "woman, child, crosswalk, trafficlight, building, road, grass, sky",
+    "object": "walking, talking"
+  },
+  {
+    "caption": "The person is dancing on the ground, wearing a colorful dress with a full skirt.",
+    "concepts": "woman, dress, skirt, bracelet, road, grass, trees",
+    "object": "dancing, twirling, rotating"
+  },
+  {
+    "caption": "A woman wearing a blue dress is dancing on the ground in front of a lot of people.",
+    "concepts": "woman, dress, audience, floor, wall, decorations",
+    "object": "dancing, spinning, twirling, performing"
+  },
+  {
+    "caption": "A group of people is dancing together in a lively and joyful manner.",
+    "concepts": "people, room, clothing, balloons, wall, door",
+    "object": "dancing, clapping, laughing, moving"
+  },
+  {
+    "caption": "A car is driving on the road.",
+    "concepts": "car, road, trees, sky, barrier",
+    "object": "driving"
+  },
+  {
+    "caption": "A man is standing in front of a DJ mixing music, with another person wearing a mask in the background.",
+    "concepts": "man, headphones, mask, microphone, table, lights, background, cityscape",
+    "object": "speaking, gesturing, moving, listening"
+  },
+  {
+    "caption": "A dog standing in a grassy area with its head down, possibly sniffing the ground.",
+    "concepts": "dog, grass, background",
+    "object": "walking, sniffing"
+  },
+  {
+    "caption": "A dog running through a series of red and white poles.",
+    "concepts": "dog, pole, path, grass, tree",
+    "object": "running"
+  },
+  {
+    "caption": "A dog is lying on the grass, while a group of ducks is walking nearby.",
+    "concepts": "dog, geese, grass, background",
+    "object": "lying, walking"
+  },
+  {
+    "caption": "The person is standing in a field, holding a frisbee, and interacting with two dogs.",
+    "concepts": "man, dogs, frisbee, field, sky, trees",
+    "object": "standing, throwing, running, playing"
+  },
+  {
+    "caption": "A person is holding a small dog in front of a scale, and another dog is looking at the scale.",
+    "concepts": "dog, basket, human, background",
+    "object": "standing, sniffing, interacting"
+  },
+  {
+    "caption": "A car driving on a race track, possibly participating in a motorsport event.",
+    "concepts": "car, road, grass, sky, trees, fence",
+    "object": "driving, turning"
+  },
+  {
+    "caption": "A red car driving on a race track, navigating a turn with a yellow and white truck nearby.",
+    "concepts": "car, track, grass, sky, light, building",
+    "object": "driving, turning, racing"
+  },
+  {
+    "caption": "A car racing on a track, with smoke coming from the car.",
+    "concepts": "car, track, grass, sky, barrier, trees",
+    "object": "driving, turning"
+  },
+  {
+    "caption": "The person is holding a smartphone and showing it to another person.",
+    "concepts": "phone, hand, table, background",
+    "object": "swiping, holding"
+  },
+  {
+    "caption": "The elephant is walking on the road.",
+    "concepts": "elephant, road, grass, trees, sky",
+    "object": "walking"
+  },
+  {
+    "caption": "A flamingo is walking in a pond.",
+    "concepts": "flamingo, water, plants, shore",
+    "object": "walking, swaying"
+  },
+  {
+    "caption": "A mountain goat is standing on a rocky outcrop, looking down a steep hillside.",
+    "concepts": "animal, rock, grass, sky",
+    "object": "standing, moving"
+  },
+  {
+    "caption": "A group of fish swimming in an aquarium.",
+    "concepts": "fish, coral, aquarium, water",
+    "object": "swimming, floating"
+  },
+  {
+    "caption": "The man is walking on a rocky trail, carrying a backpack, and looking at a mountain.",
+    "concepts": "person, backpack, mountain, rock, path, sky, trees",
+    "object": "walking, standing"
+  },
+  {
+    "caption": "The person is playing street hockey, holding a stick and aiming at a ball.",
+    "concepts": "person, hockeystick, balls, court, fence, ground",
+    "object": "swinging, hitting, moving"
+  },
+  {
+    "caption": "A man riding a horse is jumping over a fence.",
+    "concepts": "horse, rider, fence, grass, trees, sky",
+    "object": "galloping, riding, jumping"
+  },
+  {
+    "caption": "A woman riding a brown horse is jumping over a fence.",
+    "concepts": "horse, rider, saddle, fence, grass, field, sky, trees",
+    "object": "riding, walking, turning"
+  },
+  {
+    "caption": "The person riding a white horse is jumping over a fence.",
+    "concepts": "horse, rider, fence, grass, trees, sky",
+    "object": "riding, jumping"
+  },
+  {
+    "caption": "The person is walking down a busy street, surrounded by a crowd of people, with trees and a sign in the background.",
+    "concepts": "man, crowd, trees, street, buildings, bus, umbrella",
+    "object": "walking, talking, gesturing, moving"
+  },
+  {
+    "caption": "Two men practicing martial arts, possibly Brazilian Jiu-Jitsu, in a dojo.",
+    "concepts": "people, gym, mats, clothing, belt, wall, poster",
+    "object": "grappling, wrestling, struggling, positioning, resisting"
+  },
+  {
+    "caption": "Two men are wrestling.",
+    "concepts": "fighters, ring, audience, referee, mat, clothing",
+    "object": "grappling, wrestling, punching, defending, positioning"
+  },
+  {
+    "caption": "A young boy in a yellow and orange soccer jersey, looking up at a soccer ball with a Nike logo, seemingly about to kick it.",
+    "concepts": "child, soccerball, sky",
+    "object": "looking, balancing"
+  },
+  {
+    "caption": "The man is water skiing, holding onto a rope and being pulled across the water.",
+    "concepts": "person, surfboard, water, sky, line, buoy",
+    "object": "surfing, pulling, gliding"
+  },
+  {
+    "caption": "The person is walking on the beach while holding a surfboard and a kite.",
+    "concepts": "man, surfboard, beach, sand, ocean, sky",
+    "object": "walking, gesturing"
+  },
+  {
+    "caption": "A man landed on the sea.",
+    "concepts": "man, water, sky",
+    "object": "walking, spreading arms"
+  },
+  {
+    "caption": "The koala is climbing a tree, using its hands and feet to grip the branches.",
+    "concepts": "animal, tree, branch, sky",
+    "object": "climbing, moving"
+  },
+  {
+    "caption": "Three women standing on a grass field, posing for a photo.",
+    "concepts": "women, field, grass, sky, horizon",
+    "object": "standing, posing"
+  },
+  {
+    "caption": "The lady is walking away from the camera, wearing a colorful shirt, and appears to be in a restaurant or dining area.",
+    "concepts": "woman, restaurant, table, chair, window, lighting, wall",
+    "object": "speaking, gesturing"
+  },
+  {
+    "caption": "The dog is running through a grassy area, possibly a yard or park, with a fence in the background.",
+    "concepts": "dog, grass, fence, trees",
+    "object": "running"
+  },
+  {
+    "caption": "The person is dancing in a group, possibly in a dance class, with other people.",
+    "concepts": "dancer, studio, wall, ceiling",
+    "object": "dancing, moving, stretching"
+  },
+  {
+    "caption": "The person is standing in a store, holding a box, and talking to another person.",
+    "concepts": "man, store, shelves, products, window, package",
+    "object": "speaking, gesturing"
+  },
+  {
+    "caption": "The person is riding a skateboard down a path, wearing a yellow shirt and a backpack.",
+    "concepts": "person, sunglasses, backpack, shirt, road, grass, sky, trees, fence",
+    "object": "walking, talking"
+  },
+  {
+    "caption": "The woman is walking through a grassy area, with a backpack on.",
+    "concepts": "person, backpack, grass, field, trees, sky",
+    "object": "walking"
+  },
+  {
+    "caption": "The duck is walking on the grass near a river.",
+    "concepts": "duck, grass, water, bank",
+    "object": "walking, standing"
+  },
+  {
+    "caption": "The duck is swimming in a pond.",
+    "concepts": "duck, water, grass, shore",
+    "object": "swimming, floating"
+  },
+  {
+    "caption": "The person is riding a motorcycle, performing a wheelie on a road, with smoke coming from the tires.",
+    "concepts": "motorcycle, rider, helmet, road, field, sky, trees",
+    "object": "riding, balancing, leaning"
+  },
+  {
+    "caption": "A man is starting the motorcycle.",
+    "concepts": "man, motorcycle, road, grass, sky, buildings",
+    "object": "standing, looking, smiling"
+  },
+  {
+    "caption": "The person is surfing, riding a wave on a surfboard.",
+    "concepts": "surfer, surfboard, wave, ocean, sky",
+    "object": "surfing, riding, turning"
+  },
+  {
+    "caption": "The person is riding a dirt bike on a dirt track, navigating a turn.",
+    "concepts": "motorcycle, rider, dirttrack, fence, trees, sky",
+    "object": "riding, turning, leaning"
+  },
+  {
+    "caption": "The person is riding a dirt bike on a dirt track, navigating a turn.",
+    "concepts": "motorcycle, rider, dirttrack, fence, trees, sky",
+    "object": "riding, turning, leaning"
+  },
+  {
+    "caption": "The person is riding a motorcycle on a road, passing a potted plant.",
+    "concepts": "motorcycle, road, trees, fence, powerlines, sky, mountains",
+    "object": "riding, accelerating, turning"
+  },
+  {
+    "caption": "The image shows a dark, industrial setting with a car driving on a track.",
+    "concepts": "car, building, road, light",
+    "object": "driving, moving"
+  },
+  {
+    "caption": "A man is paragliding, soaring through the air above a picturesque landscape.",
+    "concepts": "paraglider, person, mountain, forest, sky, clouds, landscape",
+    "object": "flying, gliding, descending"
+  },
+  {
+    "caption": "The person is standing on a hill, holding onto a parachute, preparing to paraglide.",
+    "concepts": "person, parachute, grass, sky, landscape",
+    "object": "running, flying, ascending"
+  },
+  {
+    "caption": "The person is performing a skateboard trick, jumping over a fence.",
+    "concepts": "man, building, grass, fence, sky, road, truck, yellowobject",
+    "object": "walking, talking, gesturing"
+  },
+  {
+    "caption": "A mother pig and her two piglets are walking on a dirt ground.",
+    "concepts": "pig, ground, grass",
+    "object": "walking"
+  },
+  {
+    "caption": "A large commercial airplane on a runway, preparing for takeoff.",
+    "concepts": "airplane, runway, grass, sky",
+    "object": "taxiing"
+  },
+  {
+    "caption": "A car driving on a dirt road, surrounded by grass and trees.",
+    "concepts": "car, field, trees, sky, dirtroad",
+    "object": "driving, turning"
+  },
+  {
+    "caption": "A rhino walking through a rocky enclosure with trees and rocks in the background.",
+    "concepts": "rhinoceros, rock, tree, ground",
+    "object": "walking"
+  },
+  {
+    "caption": "A person on a skateboard, posing in front of a colorful graffiti wall.",
+    "concepts": "skateboarder, skateboard, graffiti, wall, street",
+    "object": "skateboarding, balancing, moving"
+  },
+  {
+    "caption": "A group of children is standing on a dirt path, with some of them wearing backpacks and holding hands.",
+    "concepts": "child, backpack, shirt, path, grass, trees, sky",
+    "object": "walking, looking, smiling"
+  },
+  {
+    "caption": "A person is riding a motorcycle down a street.",
+    "concepts": "motorcycle, road, trees, grass, sky, buildings, powerlines",
+    "object": "riding, moving, turning"
+  },
+  {
+    "caption": "A young boy is riding a small motorized vehicle, likely a toy car, while being pushed by an adult.",
+    "concepts": "child, toycar, adult, road, grass, trees, sky",
+    "object": "sitting, playing, walking"
+  },
+  {
+    "caption": "A person riding a motor scooter on a city street.",
+    "concepts": "motorcycle, rider, helmet, mirror, road, building, trees, sky",
+    "object": "riding, turning"
+  },
+  {
+    "caption": "Two sharks are swimming.",
+    "concepts": "shark, water",
+    "object": "swimming"
+  },
+  {
+    "caption": "A mother sheep and her two lambs are standing in a grassy field.",
+    "concepts": "sheep, lamb, grass, field",
+    "object": "standing, walking"
+  },
+  {
+    "caption": "A man holding onto a rope, possibly engaged in an activity like rock climbing or a similar sport.",
+    "concepts": "man, rope, tree, sky",
+    "object": "climbing, pulling, looking"
+  },
+  {
+    "caption": "A person is skateboarding at a skate park, riding down a ramp.",
+    "concepts": "skateboarder, skateboard, fence, ramp, shadow, trees, sky, ground",
+    "object": "skating, bending, balancing, moving"
+  },
+  {
+    "caption": "A person is skiing.",
+    "concepts": "skier, ski, pole, snow, tree, marker",
+    "object": "skiing, descending, turning"
+  },
+  {
+    "caption": "A person is snowboarding down a snowy mountain slope.",
+    "concepts": "snowboarder, snowboard, snow, trees, mountain, sky",
+    "object": "snowboarding, turning, descending"
+  },
+  {
+    "caption": "A group of people are riding a small, blue, motorized vehicle down a street.",
+    "concepts": "people, vehicle, road, trees, sky, buildings, umbrella",
+    "object": "riding, driving, moving"
+  },
+  {
+    "caption": "A soccer ball, which is rolling on the grass near a tree.",
+    "concepts": "soccerball, tree, grass, background",
+    "object": "rolling, bouncing"
+  },
+  {
+    "caption": "A woman is pushing a stroller down a street.",
+    "concepts": "woman, sunglasses, jacket, scarf, street, cars, sidewalk, trees, buildings",
+    "object": "walking, talking"
+  },
+  {
+    "caption": "The person is riding a skateboard on a ramp, performing a trick.",
+    "concepts": "skateboarder, skateboard, ramp, trees, sky, fence, ground",
+    "object": "skating, riding, turning, descending"
+  },
+  {
+    "caption": "A woman is doing yoga on the beach.",
+    "concepts": "woman, beach, sand, ocean, sky, yoga mat",
+    "object": "stretching, balancing, meditating"
+  },
+  {
+    "caption": "The person is windsurfing on a body of water, holding onto a sail with a green and yellow design.",
+    "concepts": "person, wetsuit, sail, board, water, sky",
+    "object": "holding, adjusting, sailing"
+  },
+  {
+    "caption": "The person is sitting on a swing, holding a phone, and appears to be in a park.",
+    "concepts": "person, swing, chain, tree, grass, path, sky",
+    "object": "swinging, gesturing"
+  },
+  {
+    "caption": "The person is playing tennis on a clay court, holding a racket and preparing to hit the ball.",
+    "concepts": "tennisplayer, racket, ball, court, fence, trees",
+    "object": "swinging, hitting, moving"
+  },
+  {
+    "caption": "The person is riding a red tractor, pulling a blue implement, likely on a farm or ranch.",
+    "concepts": "tractor, farmer, field, plow, sky, trees",
+    "object": "driving, plowing"
+  },
+  {
+    "caption": "A model train driving on a track.",
+    "concepts": "train, track, background, ground",
+    "object": "moving"
+  },
+  {
+    "caption": "A group of people are riding in a vehicle, likely a car or a bus, with a city street visible in the background.",
+    "concepts": "man, car, street, buildings, trees, pedestrians, bus, signs",
+    "object": "driving, walking, talking"
+  },
+  {
+    "caption": "The man riding a roller coaster, wearing sunglasses and a colorful shirt.",
+    "concepts": "man, rollercoaster, sunglasses, sky, trees, amusementpark",
+    "object": "riding, moving, smiling"
+  },
+  {
+    "caption": "A lizard perched on a tree branch in an enclosure.",
+    "concepts": "lizard, branch, cage, background",
+    "object": "standing, looking around"
+  },
+  {
+    "caption": "The person is taking a selfie on a city street.",
+    "concepts": "man, glasses, cap, shirt, street, cars, buildings, sidewalk, trees",
+    "object": "walking, talking, gesturing"
+  }
+]

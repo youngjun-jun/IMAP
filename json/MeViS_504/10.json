@@ -1,0 +1,402 @@
+[
+  {
+    "video_path": "datasets/MeViS/Videos_49/dd521778d6c5_1.mp4",
+    "caption": "A white robot with a blue light on its chest moves its arms in a dimly lit environment.",
+    "concepts": "robot, light",
+    "camera": "static",
+    "object": "dancing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/dd8c9835de06_1.mp4",
+    "caption": "A woman stands and rotates her arms while holding dumbbells.",
+    "concepts": "woman, dumbbell, t-shirt, shorts, floor, wall",
+    "camera": "static",
+    "object": "standing, rotating",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ddbae0aefbb6_1.mp4",
+    "caption": "Two cats play on a wooden floor near a cardboard box.",
+    "concepts": "cat, cardboard box, floor",
+    "camera": "static",
+    "object": "playing, lying, hiding",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/de0a77e74416_1.mp4",
+    "caption": "A woman stands at a table with a bouquet of flowers, adjusting them.",
+    "concepts": "woman, bouquet, table, microphone, curtain, vase, flower, box",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/df6072519008_1.mp4",
+    "caption": "A little girl stands near a table, talking and crumpling paper while a TV plays in the background.",
+    "concepts": "girl, table, paper, tv, toy, cabinet, book, stuffed animal, tissue",
+    "camera": "static",
+    "object": "standing, talking, crumpling",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e267af980b15_1.mp4",
+    "caption": "Two children play with hula hoops on a patio.",
+    "concepts": "child, hula hoop, table, chair, bush, car, house",
+    "camera": "static",
+    "object": "spinning, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e36974d59aba_1.mp4",
+    "caption": "A white vehicle is stuck in a body of water, partially submerged and stationary.",
+    "concepts": "vehicle, water, grass, tree",
+    "camera": "static",
+    "object": "static",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e3702dcad084_1.mp4",
+    "caption": "A man walks away while dribbling two basketballs in a gym.",
+    "concepts": "man, basketball, gym floor, door",
+    "camera": "static",
+    "object": "walking, dribbling",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e3b0b4b485cd_1.mp4",
+    "caption": "Hands play a small toy drum set on a green table.",
+    "concepts": "drum, hand, table, toy drum set",
+    "camera": "static",
+    "object": "playing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e477e72a3043_1.mp4",
+    "caption": "a girl stands on a bed and bends backward, then stands up straight",
+    "concepts": "girl, bed, window, pillow, painting, pajamas",
+    "camera": "static",
+    "object": "standing, bending",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e5462fd7bded_1.mp4",
+    "caption": "A man performs push-ups in a gym, placing one hand on a medicine ball and the other on the floor.",
+    "concepts": "man, medicine ball, floor, gym equipment, t-shirt, shorts, watch",
+    "camera": "static",
+    "object": "pushing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e5a98ba6fdea_1.mp4",
+    "caption": "A man performs a deadlift with a barbell while another man stands nearby in a gym.",
+    "concepts": "man, barbell, weight, gym, fan, flag, scoreboard, chair, pole, bench, weight plate, floor, wall, door, backpack, shirt, shorts, shoes, belt",
+    "camera": "static",
+    "object": "lifting, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e6a6b9413a8d_1.mp4",
+    "caption": "A man in black clothing performs a one-legged jump in front of a plain wall.",
+    "concepts": "man, clothing, shoe, wall",
+    "camera": "static",
+    "object": "jumping",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e6cd39710ba0_1.mp4",
+    "caption": "A person uses a power drill to sharpen a pencil.",
+    "concepts": "person, pencil, drill, tool, hand",
+    "camera": "static",
+    "object": "holding, sharpening",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e747bc6869c4_2.mp4",
+    "caption": "Two bulls are fighting by pushing their heads against each other on a dirt ground.",
+    "concepts": "bull, man, rope, dirt",
+    "camera": "static",
+    "object": "fighting, standing, walking, squatting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e7914c5c5853_1.mp4",
+    "caption": "A man in black clothing performs Tai Chi movements in front of a green glass wall.",
+    "concepts": "man, clothing, glass wall, ground",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e7d629efc89f_1.mp4",
+    "caption": "A man with blonde hair is shaking his head and touching his neck.",
+    "concepts": "man, t-shirt, door, chair, table, rug, wall, tattoo",
+    "camera": "static",
+    "object": "shaking, touching",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/e96b2842addf_1.mp4",
+    "caption": "A person's hands operate a Korg nanoPAD2 music controller, adjusting knobs and pressing pads.",
+    "concepts": "person, device, watch, button, knob, pad, cable",
+    "camera": "static",
+    "object": "adjusting, pressing, rotating",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ea3f2c564829_1.mp4",
+    "caption": "A woman in a red top and plaid shorts performs a high-knee exercise in a grassy yard.",
+    "concepts": "woman, top, shorts, grass, tree",
+    "camera": "static",
+    "object": "exercising",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ea6e678e39c8_1.mp4",
+    "caption": "A baby lies on a wooden floor and reaches for a green building block.",
+    "concepts": "baby, building block, floor",
+    "camera": "static",
+    "object": "lying, reaching",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/eb3dfb4f2a93_1.mp4",
+    "caption": "A white adult rabbit nuzzles several small white and black baby rabbits inside a wire cage.",
+    "concepts": "rabbit, baby rabbit, cage, blanket, hay",
+    "camera": "static",
+    "object": "standing, nuzzling, lying",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/eb3dfb4f2a93_2.mp4",
+    "caption": "A white rabbit tends to its newborn kits inside a wire enclosure.",
+    "concepts": "rabbit, kit, cage, hay, blanket",
+    "camera": "static",
+    "object": "lying, moving, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/eb72f71dd787_1.mp4",
+    "caption": "A man prepares to lift a barbell in a gym.",
+    "concepts": "man, barbell, gym equipment, floor, shirt, pants, mirror",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ebbdf97a596e_1.mp4",
+    "caption": "A blue bus drives past a tree with ferns on a street with a crosswalk.",
+    "concepts": "bus, tree, fern, crosswalk, road, sign, grass, sidewalk, building",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ebbdf97a596e_2.mp4",
+    "caption": "A blue bus drives away from the camera on a road beside a grassy area with trees.",
+    "concepts": "bus, tree, road, grass, sidewalk, crosswalk, building, sign, fence, fern",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ed0ba791aca2_1.mp4",
+    "caption": "A baby in a yellow walker reaches toward a mop on the floor.",
+    "concepts": "baby, walker, mop, couch, stroller, floor, person",
+    "camera": "static",
+    "object": "reaching, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ed888d9dfb3d_1.mp4",
+    "caption": "A person in a wetsuit rides a surfboard on a wave.",
+    "concepts": "person, surfboard, wave, ocean",
+    "camera": "static",
+    "object": "riding",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/edb2bafd0ad0_1.mp4",
+    "caption": "a person swims freestyle in a pool lane",
+    "concepts": "person, pool, lane divider",
+    "camera": "static",
+    "object": "swimming",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/eecc4624dd79_1.mp4",
+    "caption": "Two rabbits, one brown and one white, are inside a metal cage with a water container.",
+    "concepts": "rabbit, cage, water container, pipe, fabric",
+    "camera": "static",
+    "object": "standing, moving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ef265031cc2d_1.mp4",
+    "caption": "A hand peels a strip of tape from a wall.",
+    "concepts": "hand, tape, wall",
+    "camera": "static",
+    "object": "peeling",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ef7e0a0708d6_1.mp4",
+    "caption": "A woman washes her braided hair in a white bathtub.",
+    "concepts": "woman, hair, bathtub, wall, shirt",
+    "camera": "static",
+    "object": "washing, bending",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f0478e36aec0_1.mp4",
+    "caption": "A person trims a dog's nails while holding it.",
+    "concepts": "person, dog",
+    "camera": "static",
+    "object": "trimming",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f25931b28b40_2.mp4",
+    "caption": "Two pandas playfully wrestle and climb over a tree branch in an enclosure.",
+    "concepts": "panda, tree, branch, ground, straw",
+    "camera": "static",
+    "object": "playing, wrestling, climbing, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f40bcebf44d7_1.mp4",
+    "caption": "A young girl with a runny nose looks at the camera.",
+    "concepts": "girl, nose, coat, shirt",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f4fb4829a001_1.mp4",
+    "caption": "A woman in a blue checkered shirt speaks and gestures in a bedroom.",
+    "concepts": "woman, shirt, lamp, bed, basket, door, necklace, ceiling light, wall, floor",
+    "camera": "static",
+    "object": "speaking, gesturing, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f63f321a6e4f_1.mp4",
+    "caption": "person walking on a treadmill",
+    "concepts": "person, treadmill, shoe, blanket",
+    "camera": "static",
+    "object": "walking",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f75fab9f1b86_1.mp4",
+    "caption": "A boy sits on the floor holding a yellow broom.",
+    "concepts": "boy, broom, dustpan, floor, shirt, shorts",
+    "camera": "static",
+    "object": "sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f89a8ff75260_2.mp4",
+    "caption": "A group of four ducklings moves together on dirt near a tree and a woven basket.",
+    "concepts": "duckling, tree, basket, dirt, wood, brick wall",
+    "camera": "static",
+    "object": "standing, walking",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f89dca892f54_1.mp4",
+    "caption": "A close-up of a sleeping child's face, showing subtle movements as they turn slightly.",
+    "concepts": "child, pillow",
+    "camera": "static",
+    "object": "sleeping, turning",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f8fa72296514_1.mp4",
+    "caption": "A man performs push-ups with his feet elevated on a red exercise ball in a gym.",
+    "concepts": "man, exercise ball, gym, mirror, floor mat, shirt, pants, shoes, fan, plant, weight machine",
+    "camera": "static",
+    "object": "doing push-ups, exercising, performing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f92efd830f55_1.mp4",
+    "caption": "A sea turtle swims near the surface of the water in an aquarium tank.",
+    "concepts": "sea turtle, water, aquarium",
+    "camera": "static",
+    "object": "swimming",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/f9cb018c31b9_1.mp4",
+    "caption": "A technician in protective gear sand blasts a floor inside a wooden room.",
+    "concepts": "technician, hose, floor, window, protective suit, mask, wall, tree",
+    "camera": "static",
+    "object": "standing, sand blasting, blasting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/fa3cea80841c_1.mp4",
+    "caption": "A young child wipes their nose with a tissue while a dog moves nearby in a living room.",
+    "concepts": "child, dog, couch, pillow, tissue, table, floor, wall, picture",
+    "camera": "static",
+    "object": "wiping, moving, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/fb15c1060b1e_1.mp4",
+    "caption": "A boy sits on a black leather couch, clenching his fists and shaking his head.",
+    "concepts": "boy, couch, watch",
+    "camera": "static",
+    "object": "shaking, clenching",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/fcd9cd4aec41_1.mp4",
+    "caption": "A tabby cat lies on a wooden bench while another cat sits under a nearby bench; a human hand pets the cat on the bench.",
+    "concepts": "cat, bench, hand, pole, tree, ground",
+    "camera": "static",
+    "object": "lying, sitting, petting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/fcd9cd4aec41_2.mp4",
+    "caption": "A cat lies on a wooden bench while a person's hand pets it, with another cat visible under the bench.",
+    "concepts": "cat, person, bench, hand, pole, tree",
+    "camera": "static",
+    "object": "lying, petting, peeking",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/fdbfc3fa6921_1.mp4",
+    "caption": "A woman lies on a red mat performing a leg exercise while another woman kneels and speaks, with both reflected in a mirror.",
+    "concepts": "woman, mat, mirror, floor, tank top, pants, watch, yoga mat",
+    "camera": "static",
+    "object": "lying, kneeling, speaking, lifting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/fdf5eb435269_1.mp4",
+    "caption": "A hand uses a brush to spread blue paint on a surface.",
+    "concepts": "hand, brush, paint, surface",
+    "camera": "static",
+    "object": "brushing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/febf311185dd_1.mp4",
+    "caption": "A person walks on a slackline in a park.",
+    "concepts": "person, slackline, grass, fence, tree, building, shoe",
+    "camera": "static",
+    "object": "walking",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/ffbb18456175_1.mp4",
+    "caption": "A man uses a long pole to clean the windows of a building.",
+    "concepts": "man, building, window, pole, balcony, sky",
+    "camera": "static",
+    "object": "cleaning",
+    "motion_idx": -1
+  }
+]

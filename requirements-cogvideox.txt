@@ -1,0 +1,17 @@
+diffusers==0.34.0
+transformers==4.47.0
+accelerate==1.11.0
+einops==0.8.1
+huggingface-hub==0.36.0
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+gradio==5.49.1
+matplotlib
+openai==2.6.1
+opencv-python==4.12.0.88
+pillow==11.3.0
+psutil==7.1.2
+scipy==1.15.3
+tqdm
+scikit-learn==1.7.2
+sentencepiece==0.2.1

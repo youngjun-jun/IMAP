@@ -1,0 +1,410 @@
+[
+  {
+    "video_path": "datasets/MeViS/Videos_49/4d21368e9dec_2.mp4",
+    "caption": "Two fish swim near rocks on the bottom of an aquarium.",
+    "concepts": "fish, rock",
+    "camera": "static",
+    "object": "swimming, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4d21368e9dec_4.mp4",
+    "caption": "A fish with circular markings swims near rocks in an aquarium.",
+    "concepts": "fish, rock",
+    "camera": "static",
+    "object": "swimming",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4d21368e9dec_5.mp4",
+    "caption": "A fish swims over rocks in an aquarium.",
+    "concepts": "fish, rock",
+    "camera": "static",
+    "object": "swimming",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4d21368e9dec_6.mp4",
+    "caption": "Fish swim around rocks in an aquarium.",
+    "concepts": "fish, rock",
+    "camera": "static",
+    "object": "swimming, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4e08debd7129_1.mp4",
+    "caption": "A man wearing glasses looks upward while holding a plastic bottle, his head tilted back and mouth open.",
+    "concepts": "man, glasses, bottle, book, shirt",
+    "camera": "static",
+    "object": "looking up, holding, shaking",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4e0b66d124c8_1.mp4",
+    "caption": "A person is cleaning a brown leather shoe with a brush while another person holds the shoe steady.",
+    "concepts": "person, shoe, brush, stool, floor",
+    "camera": "static",
+    "object": "cleaning, holding, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4e127c0e992b_1.mp4",
+    "caption": "Two people jump on a trampoline in a backyard.",
+    "concepts": "person, trampoline, house, wall, tree, grass, shed",
+    "camera": "static",
+    "object": "jumping",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4ea03b6bb26e_1.mp4",
+    "caption": "A white cat jumps onto a surface and pounces on an orange ball.",
+    "concepts": "cat, ball, surface, bag, floor",
+    "camera": "static",
+    "object": "jumping, pouncing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4ea03b6bb26e_3.mp4",
+    "caption": "A white cat jumps onto a blue sofa while a red ball on a stick is visible.",
+    "concepts": "cat, sofa, ball, stick",
+    "camera": "static",
+    "object": "jumping",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4ee812311593_1.mp4",
+    "caption": "Two lizards fight on a paved surface.",
+    "concepts": "lizard, pavement",
+    "camera": "static",
+    "object": "fighting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/4f3fe72c997f_1.mp4",
+    "caption": "A man in a green shirt plays a boxing arcade game while a woman stands nearby drinking.",
+    "concepts": "man, woman, arcade game, drink, t-shirt, wall",
+    "camera": "static",
+    "object": "playing, drinking, standing, shifting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/50092659398c_1.mp4",
+    "caption": "A man sits on a purple exercise ball at a desk and then lies down.",
+    "concepts": "man, exercise ball, desk, computer monitor, chair",
+    "camera": "static",
+    "object": "seated, lying",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/502c8d1c37fc_1.mp4",
+    "caption": "Two pigeons are inside a metal cage, with one perched on a wooden pole and the other moving around.",
+    "concepts": "pigeon, cage, pole, bowl, concrete block",
+    "camera": "static",
+    "object": "standing, moving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/502c8d1c37fc_2.mp4",
+    "caption": "Two pigeons move around inside a metal cage.",
+    "concepts": "pigeon, cage, bowl, pole, concrete block",
+    "camera": "static",
+    "object": "moving, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/502c8d1c37fc_3.mp4",
+    "caption": "Two pigeons move around inside a metal cage.",
+    "concepts": "pigeon, cage, pole, bowl, brick",
+    "camera": "static",
+    "object": "moving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/502c8d1c37fc_4.mp4",
+    "caption": "Two pigeons are inside a metal cage, one drinking from a bowl while the other moves around.",
+    "concepts": "pigeon, cage, bowl, concrete block",
+    "camera": "static",
+    "object": "drinking, moving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/502c8d1c37fc_6.mp4",
+    "caption": "Two pigeons move around inside a wire cage.",
+    "concepts": "pigeon, cage, pole, bowl, concrete block",
+    "camera": "static",
+    "object": "jumping, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/50ecd896675e_1.mp4",
+    "caption": "A man performs sit-ups on a gym machine.",
+    "concepts": "man, machine, gym, floor, window, wall, towel",
+    "camera": "static",
+    "object": "exercising",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/512aa11ef33d_1.mp4",
+    "caption": "man throwing an axe at a wooden plank",
+    "concepts": "man, axe, wooden plank, tree, bag",
+    "camera": "static",
+    "object": "throwing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5189d07dc09b_1.mp4",
+    "caption": "A man spins and throws a discus in a stadium filled with spectators.",
+    "concepts": "man, discus, stadium, crowd, net, track, bench",
+    "camera": "static",
+    "object": "spinning, throwing, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/51aff01929b2_1.mp4",
+    "caption": "The two cats fight and wrestle on the grass.",
+    "concepts": "cat, grass, pole",
+    "camera": "static",
+    "object": "fighting, wrestling, rolling",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/523a57e162f3_1.mp4",
+    "caption": "a little girl in a pink shirt and diaper performs a somersault on a carpeted floor",
+    "concepts": "girl, diaper, shirt, carpet, pillow, flip flop, couch",
+    "camera": "static",
+    "object": "doing somersault, performing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/53f92ea8f648_1.mp4",
+    "caption": "A man performs pull-ups on a wall-mounted bar in a gym.",
+    "concepts": "man, pull-up bar, door, window, bench, weight plate, wall",
+    "camera": "static",
+    "object": "exercising, turning, walking",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/540068688f95_1.mp4",
+    "caption": "A dog walks around a parked scooter on a concrete surface.",
+    "concepts": "dog, scooter, concrete",
+    "camera": "static",
+    "object": "walking, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/545b93984b9b_1.mp4",
+    "caption": "A man stands on a self-balancing scooter in a room, extending his arms for balance.",
+    "concepts": "man, self-balancing scooter, table, chair, clothing, curtain, wall",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/549ff1f5fb95_1.mp4",
+    "caption": "A person braids a girl's hair in a room with fluorescent lighting.",
+    "concepts": "person, girl, hair, hand, sweater, ceiling, light",
+    "camera": "static",
+    "object": "braiding, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5705ce73186d_1.mp4",
+    "caption": "A giant panda stands over a smaller panda lying on the ground, both surrounded by green foliage.",
+    "concepts": "giant panda, panda, foliage, wall",
+    "camera": "static",
+    "object": "standing, lying",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/57d86c6aaef4_1.mp4",
+    "caption": "A man lies face down on a table while another person applies a white strip to his back.",
+    "concepts": "man, person, table, strip, room",
+    "camera": "static",
+    "object": "lying, applying",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/58470c9235f5_1.mp4",
+    "caption": "Two bearded dragons interact on a carpeted surface, with one climbing on top of the other as a human hand occasionally touches them.",
+    "concepts": "bearded dragon, carpet, hand",
+    "camera": "static",
+    "object": "climbing, sitting, moving, touching",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5861485f8b0a_1.mp4",
+    "caption": "A woman in a red costume dances on stage in front of a banner and red backdrop.",
+    "concepts": "woman, costume, banner, backdrop, stage, poster",
+    "camera": "static",
+    "object": "dancing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/58d4f5cde947_2.mp4",
+    "caption": "A gray cat stands in a cage, moving its head and body slightly while another cat is partially visible in the background.",
+    "concepts": "cat, cage, toy, bowl",
+    "camera": "static",
+    "object": "standing, moving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5933f589b9b9_1.mp4",
+    "caption": "person performing a backflip on a gymnastics mat in an indoor gymnasium.",
+    "concepts": "person, mat, wall, window, floor, woman, gymnastics equipment",
+    "camera": "static",
+    "object": "jumping, flipping, standing, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/596907ef5d7e_1.mp4",
+    "caption": "A blue bus drives past a tree on a road.",
+    "concepts": "bus, tree, road, building, fence, grass",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a0679487ac8_1.mp4",
+    "caption": "A bird with grey and blue feathers is perched on a person's hand near a pink cage.",
+    "concepts": "bird, hand, cage",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a0679487ac8_2.mp4",
+    "caption": "A blue and grey parakeet perches on a person's hand near a pink cage.",
+    "concepts": "bird, hand, cage",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a0679487ac8_3.mp4",
+    "caption": "A blue and grey parakeet perches on a person's hand near a pink cage.",
+    "concepts": "bird, hand, cage",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a0679487ac8_4.mp4",
+    "caption": "A blue and grey bird is perched on a person's hand near a pink cage.",
+    "concepts": "bird, hand, cage, pen",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a0b23634cd1_1.mp4",
+    "caption": "A man rolls a yellow ball on his arm while standing in front of a closet.",
+    "concepts": "man, ball, closet, hanger, t-shirt, wall",
+    "camera": "static",
+    "object": "rolling",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a2fd9df3a5b_1.mp4",
+    "caption": "A blue bus drives away on a road near a grassy area and buildings.",
+    "concepts": "bus, road, building, tree, sign, grass, sidewalk",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a2fd9df3a5b_2.mp4",
+    "caption": "A blue bus drives away on a road near a building and trees.",
+    "concepts": "bus, building, road, tree, sign, grass, sidewalk",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a2fd9df3a5b_3.mp4",
+    "caption": "A blue bus drives past a road sign on a campus with buildings and trees in the background.",
+    "concepts": "bus, road, sign, building, tree, grass, sidewalk",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5a2fd9df3a5b_4.mp4",
+    "caption": "A blue bus drives away on a road beside a grassy slope and buildings.",
+    "concepts": "bus, road, building, tree, sign, grass, sidewalk",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5aa3521cdc01_1.mp4",
+    "caption": "A person braids the hair of a woman with long, wavy hair.",
+    "concepts": "person, woman, hair, braid, headband, shirt",
+    "camera": "static",
+    "object": "braiding, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5b1764547a76_1.mp4",
+    "caption": "A toddler stands on a soccer ball on a grassy field while an adult stands nearby.",
+    "concepts": "child, adult, soccer ball, grass",
+    "camera": "static",
+    "object": "standing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5b8ff1633d2f_1.mp4",
+    "caption": "A person in a white uniform with a green belt performs a high kick toward a wooden board held by another person in a white uniform with a black belt.",
+    "concepts": "person, board, uniform, belt, mat, mirror, martial arts equipment, floor, wall",
+    "camera": "static",
+    "object": "standing, kicking, holding, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5bb07351c95c_1.mp4",
+    "caption": "A man washes his hair with his hands.",
+    "concepts": "man, hair, hand, foam",
+    "camera": "static",
+    "object": "washing, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5c12afe65643_1.mp4",
+    "caption": "A baby in a polka-dotted shirt holds a tissue to their face and then lowers it.",
+    "concepts": "baby, tissue, shirt, playpen",
+    "camera": "static",
+    "object": "rubbing, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5c9282c89e9f_1.mp4",
+    "caption": "A man and a woman dance together on a stage in front of an audience.",
+    "concepts": "man, woman, audience, stage, banner, microphone, speaker, camera, chair, floor",
+    "camera": "static",
+    "object": "dancing, sitting, standing, watching",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5df56f1cbfc1_1.mp4",
+    "caption": "A panda lies on a swing while another panda climbs a wooden structure in a grassy enclosure.",
+    "concepts": "panda, swing, wooden structure, grass, tree, tire, bench, building, fence",
+    "camera": "static",
+    "object": "lying, climbing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5df56f1cbfc1_2.mp4",
+    "caption": "A panda sits on a swing in a grassy enclosure with wooden structures and tires, while another panda is on a log in the background.",
+    "concepts": "panda, swing, log, tire, grass, tree, bench, building, wooden structure",
+    "camera": "static",
+    "object": "sitting, hanging",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5df56f1cbfc1_3.mp4",
+    "caption": "A panda hangs upside down from a wooden structure while another panda lies on a swing in a grassy enclosure with trees and wooden play equipment.",
+    "concepts": "panda, swing, wooden structure, grass, tree, tire, bench, building, person",
+    "camera": "static",
+    "object": "hanging, lying, sitting",
+    "motion_idx": -1
+  }
+]

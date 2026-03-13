@@ -1,0 +1,402 @@
+[
+  {
+    "video_path": "datasets/MeViS/Videos_49/5e61fa2ce850_1.mp4",
+    "caption": "a person shaving their leg with a razor",
+    "concepts": "person, razor, leg, bracelet, tile",
+    "camera": "static",
+    "object": "shaving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/5f5eb8318cf8_1.mp4",
+    "caption": "A young child pushes a shopping cart forward.",
+    "concepts": "child, shopping cart, floor",
+    "camera": "static",
+    "object": "pushing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6051dce4505c_1.mp4",
+    "caption": "A person dressed as Captain America cleans a window while two children watch and salute from inside.",
+    "concepts": "person, child, window, costume, bucket, mask, building, rope, table",
+    "camera": "static",
+    "object": "standing, cleaning, saluting, watching",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/60e31f063296_1.mp4",
+    "caption": "A little girl in a blue dress dances in a room.",
+    "concepts": "girl, dress, crown, wand, floor, chair, table, kitchen, stool, carpet",
+    "camera": "static",
+    "object": "dancing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/61d2d82ca94d_1.mp4",
+    "caption": "Two giraffes are fighting by entwining their necks.",
+    "concepts": "giraffe",
+    "camera": "static",
+    "object": "fighting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/622900e952d3_1.mp4",
+    "caption": "A person is cleaning a toilet with a blue toilet brush.",
+    "concepts": "person, toilet, toilet brush",
+    "camera": "static",
+    "object": "cleaning",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/623c29f5c9ef_1.mp4",
+    "caption": "A man wearing sunglasses sits at a table with hookahs and a beer bottle, talking and nodding.",
+    "concepts": "man, sunglasses, table, hookah, beer bottle, cup, bowl, wallet, tattoo, shirt",
+    "camera": "static",
+    "object": "nodding, talking, sitting, holding",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/636a200f27b2_1.mp4",
+    "caption": "A person's hands manipulate a metal bracelet against a blue background.",
+    "concepts": "hand, bracelet, tool, watch, surface",
+    "camera": "static",
+    "object": "holding, bending, manipulating",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/63aae8aa17e4_1.mp4",
+    "caption": "Two brown dogs interact on a dirt path scattered with debris.",
+    "concepts": "dog, dirt, debris, plastic bag, stick, plant",
+    "camera": "static",
+    "object": "moving, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/63aae8aa17e4_2.mp4",
+    "caption": "Two brown dogs play on a dirt and gravel ground scattered with debris.",
+    "concepts": "dog, ground, debris, dirt, gravel, plant, plastic bag, log",
+    "camera": "static",
+    "object": "playing, standing, moving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/669da0c0b617_1.mp4",
+    "caption": "A man walks behind two cows on a snowy path, leading them forward.",
+    "concepts": "man, cow, path, snow, building, pole, cement mixer",
+    "camera": "static",
+    "object": "walking",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/67203602de2c_1.mp4",
+    "caption": "A little girl rides a scooter on a residential street.",
+    "concepts": "girl, scooter, car, house, street",
+    "camera": "static",
+    "object": "riding",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6793ff190f88_1.mp4",
+    "caption": "A young boy drives a riding lawnmower through a wooded area while a man walks toward him.",
+    "concepts": "boy, man, lawnmower, tree, fence",
+    "camera": "static",
+    "object": "driving, walking, operating",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/67ae9d0d8821_1.mp4",
+    "caption": "A silver car drives past on a paved road.",
+    "concepts": "car, road, pillar, building, tree, grass, sign",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/67ae9d0d8821_2.mp4",
+    "caption": "A white car drives away on a paved road, partially obscured by a pillar.",
+    "concepts": "car, pillar, road, tree, grass, sign, building",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/67ae9d0d8821_3.mp4",
+    "caption": "A white car drives away on a paved road, partially obscured by a large white pillar.",
+    "concepts": "car, pillar, road, tree, grass, sign, building, fire hydrant",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/67ae9d0d8821_4.mp4",
+    "caption": "A white car drives past a paved area with a large pillar in the foreground.",
+    "concepts": "car, pillar, road, tree, sign, fire hydrant, grass, building",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/67ae9d0d8821_5.mp4",
+    "caption": "A white car drives along a road near a grassy area with trees and a building.",
+    "concepts": "car, road, tree, building, grass, fire hydrant, sign, pavement, pillar",
+    "camera": "static",
+    "object": "driving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6854d729f393_1.mp4",
+    "caption": "A hand with glittery nail polish draws a bridge with a blue pencil on paper.",
+    "concepts": "hand, pencil, paper, drawing",
+    "camera": "static",
+    "object": "drawing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/689b803af0e3_1.mp4",
+    "caption": "Blurred close-up of a person's face and shoulder, with indistinct background.",
+    "concepts": "person",
+    "camera": "static",
+    "object": "lying",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/68ace87e01dd_2.mp4",
+    "caption": "Two monkeys interact on a rock, with one lying down and the other sitting and then walking away.",
+    "concepts": "monkey, rock, grass",
+    "camera": "static",
+    "object": "lying, sitting, walking",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/68c2c24835ee_1.mp4",
+    "caption": "A person gives a massage to a woman lying on her stomach.",
+    "concepts": "person, woman, massage table, hand, back",
+    "camera": "static",
+    "object": "lying, massaging",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/693f8577bb5f_1.mp4",
+    "caption": "person sitting and using a mobile phone",
+    "concepts": "person, mobile phone, sofa, gate, wall",
+    "camera": "static",
+    "object": "using, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6a8cacb23905_1.mp4",
+    "caption": "A man in a red vest uses a long-handled tool to stir a container of material.",
+    "concepts": "man, tool, container, vest, shirt, tie, scissors, box, cloth, pole",
+    "camera": "static",
+    "object": "shaking, stirring, holding",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6b595f895fa2_1.mp4",
+    "caption": "an infant wearing a yellow hat lies on a patterned blanket",
+    "concepts": "infant, hat, blanket",
+    "camera": "static",
+    "object": "lying",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6c3a1f643a1e_1.mp4",
+    "caption": "A woman with her hair in a ponytail raises her arms upward against a black background.",
+    "concepts": "woman, arm, hand, hair, tank top, wristband",
+    "camera": "static",
+    "object": "raising",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6d4cd3072f29_1.mp4",
+    "caption": "Two people dance and wave their hands in a radio studio while a man talks on a television screen.",
+    "concepts": "person, television, microphone, headset, table, computer, chair, plant",
+    "camera": "static",
+    "object": "dancing, waving, sitting, watching",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6dc831c5b0ff_1.mp4",
+    "caption": "Two black birds are inside a red cage, with one standing on a perch and the other moving around on the bottom.",
+    "concepts": "bird, cage, perch, heart-shaped decoration, green container",
+    "camera": "static",
+    "object": "standing, moving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6de9c07da5a7_1.mp4",
+    "caption": "A woman lies on a bed while a man massages her back.",
+    "concepts": "woman, man, bed, towel, floor, pillow",
+    "camera": "static",
+    "object": "lying, massaging",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6df0b914be98_1.mp4",
+    "caption": "A woman mops the floor while a black dog bites the mop head.",
+    "concepts": "person, dog, mop, door, table, bottle, candle, slipper, floor, wall, plant, bag",
+    "camera": "static",
+    "object": "mopping, biting, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6eacfe09f9dd_1.mp4",
+    "caption": "Two people are dancing together in a large room with carpeted floors and windows along the back wall.",
+    "concepts": "person, floor, window, light, partition",
+    "camera": "static",
+    "object": "dancing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6ed264fa684a_1.mp4",
+    "caption": "A woman in a belly dance costume stands on muddy ground, twisting her body.",
+    "concepts": "woman, costume, ground, plant",
+    "camera": "static",
+    "object": "twisting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6f0d5f49f60d_1.mp4",
+    "caption": "A man sweeps the floor with a broom in a dimly lit indoor space.",
+    "concepts": "man, broom, floor, chair, light",
+    "camera": "static",
+    "object": "sweeping",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6f1abe9a0643_1.mp4",
+    "caption": "A person gives a massage to another person lying face down on a bed.",
+    "concepts": "person, bed, massage table, towel, floor, wall, window",
+    "camera": "static",
+    "object": "lying, massaging, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/6f7f56abc3ed_1.mp4",
+    "caption": "A man lifts a barbell from his shoulders to above his head in a gym while others watch.",
+    "concepts": "man, barbell, gym, weight, bench, box, mat, person",
+    "camera": "static",
+    "object": "lifting, standing, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/703e3ebe6b31_1.mp4",
+    "caption": "A person's hand and arm are visible underwater, moving through green-tinted water.",
+    "concepts": "person, hand, arm, water",
+    "camera": "static",
+    "object": "swimming",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/70d719986eda_1.mp4",
+    "caption": "A person crouches and shakes hands with a dog on a tiled floor.",
+    "concepts": "person, dog, floor, cabinet, container",
+    "camera": "static",
+    "object": "shaking, sitting, crouching",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/712b0a43adac_1.mp4",
+    "caption": "A man in a blue plaid shirt bumps his head on a hanging basket while another man stands behind him.",
+    "concepts": "man, basket, wall, shirt",
+    "camera": "static",
+    "object": "standing, hitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/715c80d265a3_1.mp4",
+    "caption": "A man lies on a bench pressing a barbell while another man stands nearby.",
+    "concepts": "man, barbell, bench, gym equipment, person",
+    "camera": "static",
+    "object": "lying, pressing, standing",
+    "motion_idx": -2
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/72667bc6903b_1.mp4",
+    "caption": "A man shaves his beard with an electric razor in a bathroom.",
+    "concepts": "man, beard, electric razor, shower curtain",
+    "camera": "static",
+    "object": "shaving",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/728364473b5f_1.mp4",
+    "caption": "A sea turtle swims gracefully through clear blue water.",
+    "concepts": "sea turtle, water",
+    "camera": "static",
+    "object": "swimming",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/73268eaaa5e4_1.mp4",
+    "caption": "A fluffy dog runs back and forth across a living room.",
+    "concepts": "dog, cabinet, plant, cage, chair, curtain, painting, table, robot vacuum",
+    "camera": "static",
+    "object": "running",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/73268eaaa5e4_2.mp4",
+    "caption": "A dog runs out from behind a curtain and across a room.",
+    "concepts": "dog, cage, chair, curtain, plant, cabinet, pet carrier, table",
+    "camera": "static",
+    "object": "running",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/73aa2e777928_1.mp4",
+    "caption": "person lying on the grass",
+    "concepts": "person, grass",
+    "camera": "static",
+    "object": "lying",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/73ffeb7fe535_1.mp4",
+    "caption": "A dog swims in a stream and then runs onto the shore.",
+    "concepts": "dog, stream, rock, grass, leaf",
+    "camera": "static",
+    "object": "swimming, running",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/73ffeb7fe535_3.mp4",
+    "caption": "A dog runs along a rocky shore next to a body of water.",
+    "concepts": "dog, rock, water, plant",
+    "camera": "static",
+    "object": "running",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/7465d529670e_1.mp4",
+    "caption": "Two people are parasailing under a red parachute with a smiling face design over the ocean.",
+    "concepts": "person, parachute, ocean, sky",
+    "camera": "static",
+    "object": "parasailing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/75ae1c68a3f6_1.mp4",
+    "caption": "A person in a blue shirt and hat paddles a kayak on a river while another person paddles alongside, surrounded by lush greenery.",
+    "concepts": "person, kayak, paddle, river, tree, hat, shirt",
+    "camera": "static",
+    "object": "paddling, sitting",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/7641da61ae48_1.mp4",
+    "caption": "Two people dance together on a dimly lit stage with musical instruments in the background.",
+    "concepts": "man, woman, stage, musical instrument, microphone, drum, speaker",
+    "camera": "static",
+    "object": "dancing",
+    "motion_idx": -1
+  },
+  {
+    "video_path": "datasets/MeViS/Videos_49/7674f768505c_1.mp4",
+    "caption": "A shirtless man shaves his face with a razor in a bathroom.",
+    "concepts": "man, razor, towel, door, hook, shaving cream, wristband",
+    "camera": "static",
+    "object": "shaving, standing",
+    "motion_idx": -2
+  }
+]
