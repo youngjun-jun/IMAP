@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"><i>I’m a Map!</i> Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers</h1>
-  <h3 align="center"><b>CVPR 2026</b></h3>
+  <h3 align="center"><b>CVPR 2026 &#x2728;Highlight</b></h3>
   <p align="center">
     <h3 align="center">
       <a href="https://youngjun-jun.github.io/"><strong>Youngjun Jun<sup>1</sup></strong></a> · 
